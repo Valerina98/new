@@ -1,0 +1,19 @@
+h1 {
+color: #196DDF;
+text-align: center;
+font-size: 100px;
+font-family: /* COMBAK:  */;
+width: 70$
+margin: 0 auto;
+}
+
+.image_center{
+  text-align: center;
+}
+img {
+  width: 699px;
+}
+
+p {
+  border: 40px solid green;
+}
